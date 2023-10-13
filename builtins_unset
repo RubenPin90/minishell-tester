@@ -1,0 +1,11 @@
+unset
+
+unset HELLO
+
+unset HELLO1 HELLO2
+
+unset HOME
+
+unset PATH
+
+unset SHELL

@@ -1,0 +1,28 @@
+exit abc abc abc
+
+exit 123 123 123
+
+exit 42 world
+
+exit 2147483648
+
+exit 9223372036854775808
+
+exit 123
+
+exit 298
+
+exit +100
+
+exit "+100"
+
+exit +"100"
+
+exit -100
+
+exit "-100"
+
+exit -"100"
+
+exit hello
+
